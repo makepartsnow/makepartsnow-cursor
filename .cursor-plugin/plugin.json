@@ -1,7 +1,7 @@
 {
   "name": "make-parts-now",
   "displayName": "Make Parts Now: 3D Printing & CNC Machining Quotes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "3D printing and CNC machining quotes in Cursor: instant price and ship date for custom parts from your CAD file (STL, STEP, 3MF, OBJ) in SLS nylon, FDM plastic, aluminum or brass, made in the US. Change the quote and get a checkout link to order.",
   "author": {
     "name": "Make Parts Now",
