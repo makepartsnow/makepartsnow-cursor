@@ -1,0 +1,38 @@
+{
+  "name": "make-parts-now",
+  "displayName": "Make Parts Now: 3D Printing & CNC Machining Quotes",
+  "version": "1.0.0",
+  "description": "3D printing and CNC machining quotes in Cursor: instant price and ship date for custom parts from your CAD file (STL, STEP, 3MF, OBJ) in SLS nylon, FDM plastic, aluminum or brass, made in the US. Change the quote and get a checkout link to order.",
+  "author": {
+    "name": "Make Parts Now",
+    "email": "orders@makepartsnow.com"
+  },
+  "homepage": "https://makepartsnow.com/developers#ai-assistants",
+  "repository": "https://github.com/makepartsnow/makepartsnow-cursor",
+  "license": "MIT",
+  "keywords": [
+    "3d printing",
+    "3d printing service",
+    "cnc machining",
+    "cnc machining service",
+    "instant quote",
+    "manufacturing",
+    "custom parts",
+    "rapid prototyping",
+    "prototype",
+    "hardware",
+    "mechanical engineering",
+    "cad",
+    "stl",
+    "step",
+    "sls",
+    "fdm",
+    "nylon",
+    "pa12",
+    "aluminum",
+    "brass",
+    "makepartsnow",
+    "make parts now"
+  ],
+  "logo": "assets/logo.png"
+}
